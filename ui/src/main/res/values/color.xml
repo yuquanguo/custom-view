@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="user_name_black">#373737</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="list_splitter">#c8c8c8</color>
+    <color name="setting_text_noselect">#6d6d6d</color>
+    <color name="orange">#fba81a</color>
+
+    <color name="gray_light">#C5C5C5</color>
+</resources>

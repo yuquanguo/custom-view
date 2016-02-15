@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleRatingBar">
+        <attr name="missImage" format="reference" />
+        <attr name="getImage" format="reference" />
+        <attr name="num" format="integer" />
+        <attr name="rating" format="float" />
+        <attr name="interval" format="dimension" />
+    </declare-styleable>
+</resources>
